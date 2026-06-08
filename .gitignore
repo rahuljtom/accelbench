@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Executables
+accelbench
+
+# macOS
+.DS_Store

@@ -1,0 +1,5 @@
+mkdir -p python
+mkdir -p benchmarks/results/raw_csv
+mkdir -p benchmarks/plots
+mkdir -p profiles/nsight_compute
+mkdir -p profiles/nsight_systems
